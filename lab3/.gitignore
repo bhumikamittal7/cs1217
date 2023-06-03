@@ -1,0 +1,10 @@
+*~
+_*
+*.o
+*.d
+*.asm
+*.sym
+*.img
+*.json
+.gdbinit
+.vscode

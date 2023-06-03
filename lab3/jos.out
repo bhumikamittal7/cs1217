@@ -1,0 +1,38 @@
+*** Now run 'make gdb'.
+***
+6828 decimal is XXX octal!
+Physical memory: 131072K available, base = 640K, extended = 130432K
+Amount of base memory in pages 160
+Total pages: 32768
+End: f011a720
+Nextfree: 4027691008
+
+Allocated pages: 262144
+Nextfree: 4027695104
+
+IOphysmem: a0000
+
+Exphysmem: 100000
+
+End: f011a720
+End Pages: 983322
+Nextfree: 4027957248
+
+Next free page: 348
+Nextfree: 4027957248
+
+nfree_basemem: 159
+nfree_extmem: 32419
+check_page_free_list() succeeded!
+check_page_alloc() succeeded!
+check_page() succeeded!
+check_kern_pgdir() succeeded!
+Nextfree: 4027957248
+
+nfree_basemem: 159
+nfree_extmem: 32353
+check_page_free_list() succeeded!
+check_page_installed_pgdir() succeeded!
+Welcome to the JOS kernel monitor!
+Type 'help' for a list of commands.
+qemu: terminating on signal 15 from pid 18737
