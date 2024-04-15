@@ -1,2 +1,2 @@
 # cs1217
-Programs I wrote for CS1217 (Operating Systems) course during Spring 2023 at Ashoka
+Programs [Saptarishi](https://github.com/SaptarishiD) and I wrote for CS1217 (Operating Systems) course during Spring 2023 at Ashoka
